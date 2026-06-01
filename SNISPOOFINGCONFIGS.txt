@@ -1,3 +1,4 @@
+vless://dea84b01-f9a0-4770-9249-b867e34c5a61@1:1?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%F0%9F%92%BB%20Dell-Server%20Configs
 trojan://humanity@192.168.1.188:40443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#PEOPLE%20%40TheVPNMethod
 trojan://humanity@192.168.1.188:40443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#FLOKI%20%40TheVPNMethod
 trojan://humanity@192.168.1.188:40443?path=assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.ignitelimit.com#XFINITY%20%40TheVPNMethod
